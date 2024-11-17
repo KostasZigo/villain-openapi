@@ -73,7 +73,7 @@
           <modelPackage>io.quarkus.workshop.superheroes.api.model</modelPackage>
           <configOptions>
             <sourceFolder>src</sourceFolder>
-            <apiPackage>io.quarkus.workshop.super-heroes.api</apiPackage>
+            <apiPackage>io.quarkus.workshop.superheroes.api</apiPackage>
             <useTags>true</useTags>
             <interfaceOnly>true</interfaceOnly>
             <useJakartaEe>true</useJakartaEe>
